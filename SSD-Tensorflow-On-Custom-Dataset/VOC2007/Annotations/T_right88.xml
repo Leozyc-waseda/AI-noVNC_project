@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>T_right88.png</filename>
+	<path>/root/SSD-Tensorflow-On-Custom-Dataset/VOC2007/JPEGImages/T_right88.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>527</width>
+		<height>488</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ground_right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>328</xmin>
+			<ymin>270</ymin>
+			<xmax>483</xmax>
+			<ymax>291</ymax>
+		</bndbox>
+	</object>
+</annotation>

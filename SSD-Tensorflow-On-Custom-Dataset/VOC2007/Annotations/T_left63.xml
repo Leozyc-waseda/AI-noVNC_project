@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>T_left63.png</filename>
+	<path>/root/SSD-Tensorflow-On-Custom-Dataset/VOC2007/JPEGImages/T_left63.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>397</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>arrow_left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>246</xmin>
+			<ymin>69</ymin>
+			<xmax>289</xmax>
+			<ymax>120</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>JPEGImages</folder>
+	<filename>T_left1.png</filename>
+	<path>/root/SSD-Tensorflow-On-Custom-Dataset/VOC2007/JPEGImages/T_left1.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>767</width>
+		<height>571</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>singleP_left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>352</xmin>
+			<ymin>198</ymin>
+			<xmax>422</xmax>
+			<ymax>318</ymax>
+		</bndbox>
+	</object>
+</annotation>

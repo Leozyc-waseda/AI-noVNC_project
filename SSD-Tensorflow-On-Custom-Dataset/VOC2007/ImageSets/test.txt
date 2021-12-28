@@ -1,0 +1,2 @@
+VOC2007/JPEGImages//K_left18.png
+VOC2007/JPEGImages//T_left10.png
