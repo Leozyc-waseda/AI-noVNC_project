@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>T_right51.png</filename>
+	<path>/root/darknet/VOCdevkit/VOC2007/JPEGImages/T_right51.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>557</width>
+		<height>482</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ground_right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>232</xmin>
+			<ymin>275</ymin>
+			<xmax>307</xmax>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>T_left38.png</filename>
+	<path>/root/darknet/VOCdevkit/VOC2007/JPEGImages/T_left38.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>457</width>
+		<height>436</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>doubleP_left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>155</ymin>
+			<xmax>173</xmax>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+</annotation>

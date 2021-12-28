@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>T_right27.png</filename>
+	<path>/root/darknet/VOCdevkit/VOC2007/JPEGImages/T_right27.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>555</width>
+		<height>473</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>turn_right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>455</xmin>
+			<ymin>108</ymin>
+			<xmax>505</xmax>
+			<ymax>152</ymax>
+		</bndbox>
+	</object>
+</annotation>

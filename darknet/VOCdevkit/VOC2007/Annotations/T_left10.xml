@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>T_left10.png</filename>
+	<path>/root/darknet/VOCdevkit/VOC2007/JPEGImages/T_left10.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>358</width>
+		<height>502</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>arrow_left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>106</xmin>
+			<ymin>26</ymin>
+			<xmax>175</xmax>
+			<ymax>102</ymax>
+		</bndbox>
+	</object>
+</annotation>

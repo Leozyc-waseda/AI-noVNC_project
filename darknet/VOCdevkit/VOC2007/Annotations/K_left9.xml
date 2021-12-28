@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>K_left9.png</filename>
+	<path>/root/darknet/VOCdevkit/VOC2007/JPEGImages/K_left9.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>singleP_left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>83</ymin>
+			<xmax>250</xmax>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+</annotation>
