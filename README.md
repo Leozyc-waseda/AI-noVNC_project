@@ -78,7 +78,7 @@
 - Make your folder like below
   ```python
   darknet / VOCdevkit / VOC2007 / Annotations
-                                                            / JPEGImages
+                                / JPEGImages
   ```
 - Generate train and test files
   ```python
